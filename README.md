@@ -18,4 +18,4 @@ A simple todo list app I am building while learning full-stack development.
 ---
 
 ## 📌 Status
-🚧 In progress
+Half Way Done
